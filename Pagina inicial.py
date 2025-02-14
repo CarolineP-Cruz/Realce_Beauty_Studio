@@ -3,7 +3,7 @@ import streamlit as st
 import base64
 
 
-main_bg2 = "C:/Users/anaca_b90wyqk/OneDrive - Universidade Federal da Bahia/Documentos/Projeto_stream/realce3.png"
+main_bg2 = "realce3.png"
 
 def set_bg_hack(main_bg):
     '''
@@ -30,10 +30,11 @@ def set_bg_hack(main_bg):
     
 set_bg_hack(main_bg2)
 
-streamlit run 'Pagina inicial.py'
+#streamlit run 'Pagina inicial.py'
 
 # streamlit run 'Pagina inicial.py'
 
 #import os
 #os.chdir("C:/Users/anaca_b90wyqk/OneDrive - Universidade Federal da Bahia/Documentos/Projeto_stream")
+
 
