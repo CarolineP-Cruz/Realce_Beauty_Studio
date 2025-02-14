@@ -30,6 +30,8 @@ def set_bg_hack(main_bg):
     
 set_bg_hack(main_bg2)
 
+streamlit run 'Pagina inicial.py'
+
 # streamlit run 'Pagina inicial.py'
 
 #import os
